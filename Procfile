@@ -1,1 +1,1 @@
-web: cd wiki && sudo node server
+sudo web: cd wiki && node server
